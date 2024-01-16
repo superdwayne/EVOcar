@@ -1,0 +1,529 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 2311,
+      "max": [
+        11.391940116882324,
+        11.14996337890625,
+        9.03633975982666
+      ],
+      "min": [
+        -10.76117992401123,
+        -14.033848762512207,
+        -6.5501837730407715
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 27732,
+      "componentType": 5126,
+      "count": 2311,
+      "max": [
+        0.9993833303451538,
+        0.9957561492919922,
+        0.999847412109375
+      ],
+      "min": [
+        -0.9963312745094299,
+        -0.9998899698257446,
+        -0.999864935874939
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 2311,
+      "max": [
+        0.9990494251251221,
+        0.9994462132453918,
+        0.9986981153488159,
+        1.0
+      ],
+      "min": [
+        -0.9810153245925903,
+        -0.9816836714744568,
+        -0.9981375932693481,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 2311,
+      "max": [
+        0.9937554597854614,
+        0.9981022477149963
+      ],
+      "min": [
+        0.013245992362499237,
+        0.019624268636107445
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 11178,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 55464,
+      "componentType": 5126,
+      "count": 21,
+      "max": [
+        2.3811416625976563,
+        -6.702676296234131,
+        6.444827556610107
+      ],
+      "min": [
+        -3.588488817214966,
+        -8.797734260559082,
+        4.155750751495361
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 55716,
+      "componentType": 5126,
+      "count": 21,
+      "max": [
+        0.3111717700958252,
+        -0.7445803880691528,
+        0.4388972818851471
+      ],
+      "min": [
+        -0.5600605010986328,
+        -0.9092366099357605,
+        0.36266133189201355
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 36976,
+      "componentType": 5126,
+      "count": 21,
+      "max": [
+        0.7459049820899963,
+        0.5036261677742004,
+        0.7737554907798767,
+        1.0
+      ],
+      "min": [
+        0.6264289617538452,
+        -0.09428264945745468,
+        0.4946986436843872,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 18488,
+      "componentType": 5126,
+      "count": 21,
+      "max": [
+        1.0706244707107544,
+        1.007091999053955
+      ],
+      "min": [
+        -0.03799551725387573,
+        -0.052464962005615234
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 44712,
+      "componentType": 5125,
+      "count": 72,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 2,
+      "max": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "min": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "type": "MAT4"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Isaack - Tacko The 3D Guy (https://sketchfab.com/isaackgamma)",
+      "license": "SKETCHFAB Editorial (https://sketchfab.com/licenses)",
+      "source": "https://sketchfab.com/3d-models/bucket-hat-drip-and-swag-vol2-f170dd10c9e74991a5528b5c798d9d5b",
+      "title": "Bucket Hat - Drip and Swag Vol.2"
+    },
+    "generator": "Sketchfab-12.67.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 45000,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 18656,
+      "byteOffset": 45000,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 55968,
+      "byteOffset": 63656,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 37312,
+      "byteOffset": 119624,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 128,
+      "byteOffset": 156936,
+      "name": "floatBufferViews"
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 157064,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/BucketHat_baseColor.png"
+    },
+    {
+      "uri": "textures/BucketHat_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/BucketHat_normal.png"
+    },
+    {
+      "uri": "textures/Logo_baseColor.png"
+    },
+    {
+      "uri": "textures/Logo_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Logo_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "BucketHat",
+      "normalTexture": {
+        "index": 2
+      },
+      "occlusionTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    },
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "name": "Logo",
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 4
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicRoughnessTexture": {
+          "index": 4
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "BucketHat_BucketHat_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "BucketHat_Logo_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "18e66fe3336d4aa89873e96583f8e26f.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -1.6292067939183141e-07,
+        -0.9999999999999868,
+        0.0,
+        0.0,
+        0.9999999999999868,
+        -1.6292067939183141e-07,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "BucketHatSk"
+    },
+    {
+      "children": [
+        5
+      ],
+      "name": "Object_4"
+    },
+    {
+      "children": [
+        6
+      ],
+      "name": "_rootJoint"
+    },
+    {
+      "children": [
+        7
+      ],
+      "name": "BucketHatRoot_00",
+      "rotation": [
+        0.6711456179618835,
+        0.005864888895303011,
+        -0.005864877253770828,
+        0.741279125213623
+      ]
+    },
+    {
+      "children": [
+        8,
+        9
+      ],
+      "matrix": [
+        0.9998622338008608,
+        0.01656740802118667,
+        0.0008226678403190436,
+        0.0,
+        -0.0008226313665788823,
+        0.09905830537268091,
+        -0.9950812309580769,
+        0.0,
+        -0.016567412799632593,
+        0.9949437028597367,
+        0.09905831097329842,
+        0.0,
+        -2.9800268919188966e-08,
+        -6.704686605654424e-26,
+        -1.225870707027843e-11,
+        1.0
+      ],
+      "name": "BucketHat"
+    },
+    {
+      "mesh": 0,
+      "name": "BucketHat_BucketHat_0"
+    },
+    {
+      "mesh": 1,
+      "name": "BucketHat_Logo_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "skins": [
+    {
+      "inverseBindMatrices": 10,
+      "joints": [
+        5,
+        6
+      ],
+      "skeleton": 5
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    },
+    {
+      "sampler": 0,
+      "source": 5
+    }
+  ]
+}
